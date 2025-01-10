@@ -3,7 +3,7 @@
 ## ⭐前置工作
 
 ### 1.VSCode     
-  - [官网下载]([https://blog.csdn.net/Colorkiller86/article/details/135457683](https://code.visualstudio.com/))  
+  - [官网下载](https://code.visualstudio.com/)  
   
 ### 2.服务器账号  
 
