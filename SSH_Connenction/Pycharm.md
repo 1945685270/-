@@ -17,5 +17,5 @@
 ##  ⭐SSH连接
 
   1.随便打开一个项目，依次点击左上角的**工具**→**部署**→**配置**    
-  ![01](./SSH_Connnect/images/01.png)
+  ![01](SSH_Connenction/images/01.png)
   
