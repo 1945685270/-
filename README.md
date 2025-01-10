@@ -5,6 +5,6 @@
 
 ## 学技术  
 ### 远程连接方式  
-[Pycharm版本](SSH_Connnection/Pycharm.md)
-[VSCode版本](SSH_Connection/VSCode.md)
+- [Pycharm版本](SSH_Connnection/Pycharm.md)  
+- [VSCode版本](SSH_Connection/VSCode.md)
 
